@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="8.4.1">
+<eagle version="7.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
-<setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
@@ -2035,7 +2034,7 @@ RV09AF-40-20K-[A|B|C]{value}K</description>
 <part name="R12" library="mb_resistors" deviceset="6MM" device=".3" value="150R"/>
 <part name="R13" library="mb_resistors" deviceset="6MM" device=".3" value="8k2"/>
 <part name="R14" library="mb_resistors" deviceset="6MM" device=".3" value="82k"/>
-<part name="R15" library="mb_resistors" deviceset="6MM" device=".3" value="390k"/>
+<part name="R15" library="mb_resistors" deviceset="6MM" device=".3" value="30k"/>
 <part name="R16" library="mb_resistors" deviceset="6MM" device=".3" value="820R"/>
 <part name="R17" library="mb_resistors" deviceset="6MM" device=".3" value="22k"/>
 <part name="R18" library="mb_resistors" deviceset="6MM" device=".3" value="39k"/>
@@ -2083,7 +2082,7 @@ RV09AF-40-20K-[A|B|C]{value}K</description>
 <part name="GND11" library="mb_supply" deviceset="GND" device=""/>
 <part name="GND12" library="mb_supply" deviceset="GND" device=""/>
 <part name="SUSTAIN" library="mb_pots" deviceset="POT" device="16MM_PCB_PADS" value="A100K"/>
-<part name="TONE" library="mb_pots" deviceset="POT" device="16MM_PCB_PADS" value="B100k"/>
+<part name="TONE" library="mb_pots" deviceset="POT" device="16MM_PCB_PADS" value="A100k"/>
 <part name="VOL" library="mb_pots" deviceset="POT" device="16MM_PCB_PADS" value="A100k"/>
 <part name="D3" library="mb_diodes" deviceset="1N914" device=".3"/>
 <part name="D4" library="mb_diodes" deviceset="1N914" device=".3"/>

@@ -67,8 +67,8 @@
 <wire x1="49.2" y1="0" x2="49.2" y2="49.52" width="0" layer="20"/>
 <wire x1="49.2" y1="49.52" x2="0" y2="49.52" width="0" layer="20"/>
 <wire x1="0" y1="49.52" x2="0" y2="0" width="0" layer="20"/>
-<text x="48.514" y="28.448" size="1.27" layer="25" font="vector" rot="R90">2017 12 Xenocoder</text>
-<text x="31.115" y="48.895" size="1.27" layer="25" font="vector" rot="R180">Hair Ball V1.1</text>
+<text x="48.514" y="28.448" size="1.27" layer="25" font="vector" rot="R90">2016 01 Xenocoder</text>
+<text x="31.115" y="48.895" size="1.27" layer="25" font="vector" rot="R180">Hair Ball V1.0</text>
 </plain>
 <libraries>
 <library name="mb_supply">
