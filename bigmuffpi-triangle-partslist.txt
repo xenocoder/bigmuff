@@ -1,0 +1,66 @@
+Partlist
+
+Exported from BMP-Triangle.sch at 12/28/17 7:13 PM
+
+EAGLE Version 8.4.1 Copyright (c) 1988-2017 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device           Package       Library          Sheet
+
++9V      +9V(T)         +9V(T)           SQUARE        mb_supply        1
+3MMLED   LED3MM         LED3MM           LED3MM        mb_diodes        1
+C1       0.1uF          075X0352         075X035       mb_caps-chicklet 1
+C2       560pF          050X030_0501     050X030_050_1 mb_caps-ceramic  1
+C3       0.1uF          075X0352         075X035       mb_caps-chicklet 1
+C4       0.1uF          075X0352         075X035       mb_caps-chicklet 1
+C5       560pF          050X030_0501     050X030_050_1 mb_caps-ceramic  1
+C6       0.047uF        075X0352         075X035       mb_caps-chicklet 1
+C7       0.1uF          075X0352         075X035       mb_caps-chicklet 1
+C8       560pF          050X030_0501     050X030_050_1 mb_caps-ceramic  1
+C9       0.047uF        075X0352         075X035       mb_caps-chicklet 1
+C10      0.0039uF       075X0352         075X035       mb_caps-chicklet 1
+C11      0.01uF         075X0352         075X035       mb_caps-chicklet 1
+C12      0.1uF          075X0352         075X035       mb_caps-chicklet 1
+C13      0.1uF          075X0352         075X035       mb_caps-chicklet 1
+C14      100uF          0631             063_025       mb_caps-electro  1
+C15      100pF          050X030_0501     050X030_050_1 mb_caps-ceramic  1
+D1       1N914.3        1N914.3          DO35-3        mb_diodes        1
+D2       1N914.3        1N914.3          DO35-3        mb_diodes        1
+D3       1N914.3        1N914.3          DO35-3        mb_diodes        1
+D4       1N914.3        1N914.3          DO35-3        mb_diodes        1
+G        GND(T)         GND(T)           SQUARE        mb_supply        1
+IN       IN(T)          IN(T)            SQUARE        mb_supply        1
+LED                     PAD              SQUARE        mb_supply        1
+OUT      OUT(T)         OUT(T)           SQUARE        mb_supply        1
+Q1       2N5089         2N5089           TO92-         mb_trans         1
+Q2       2N5089         2N5089           TO92-         mb_trans         1
+Q3       2N5089         2N5089           TO92-         mb_trans         1
+Q4       2N5089         2N5089           TO92-         mb_trans         1
+R1       3k3            6MM.3            R0207/3       mb_resistors     1
+R2       82k            6MM.3            R0207/3       mb_resistors     1
+R3       390k           6MM.3            R0207/3       mb_resistors     1
+R4       820R           6MM.3            R0207/3       mb_resistors     1
+R5       22k            6MM.3            R0207/3       mb_resistors     1
+R7       1k             6MM.3            R0207/3       mb_resistors     1
+R8       8k2            6MM.3            R0207/3       mb_resistors     1
+R9       82k            6MM.3            R0207/3       mb_resistors     1
+R10      390k           6MM.3            R0207/3       mb_resistors     1
+R11      12k            6MM.3            R0207/3       mb_resistors     1
+R12      150R           6MM.3            R0207/3       mb_resistors     1
+R13      8k2            6MM.3            R0207/3       mb_resistors     1
+R14      82k            6MM.3            R0207/3       mb_resistors     1
+R15      390k           6MM.3            R0207/3       mb_resistors     1
+R16      820R           6MM.3            R0207/3       mb_resistors     1
+R17      22k            6MM.3            R0207/3       mb_resistors     1
+R18      39k            6MM.3            R0207/3       mb_resistors     1
+R19      39k            6MM.3            R0207/3       mb_resistors     1
+R21      100k           6MM.3            R0207/3       mb_resistors     1
+R22      390k           6MM.3            R0207/3       mb_resistors     1
+R23      2k7            6MM.3            R0207/3       mb_resistors     1
+R24      12k            6MM.3            R0207/3       mb_resistors     1
+R26      1M5            6MM.3            R0207/3       mb_resistors     1
+R27      4k7            6MM.3            R0207/3       mb_resistors     1
+SUSTAIN  A100K          POT16MM_PCB_PADS 16MM_PCB_PADS mb_pots          1
+TONE     A100k          POT16MM_PCB_PADS 16MM_PCB_PADS mb_pots          1
+VOL      A100k          POT16MM_PCB_PADS 16MM_PCB_PADS mb_pots          1
