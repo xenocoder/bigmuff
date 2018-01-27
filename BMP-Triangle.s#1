@@ -2083,7 +2083,7 @@ RV09AF-40-20K-[A|B|C]{value}K</description>
 <part name="GND11" library="mb_supply" deviceset="GND" device=""/>
 <part name="GND12" library="mb_supply" deviceset="GND" device=""/>
 <part name="SUSTAIN" library="mb_pots" deviceset="POT" device="16MM_PCB_PADS" value="A100K"/>
-<part name="TONE" library="mb_pots" deviceset="POT" device="16MM_PCB_PADS" value="A100k"/>
+<part name="TONE" library="mb_pots" deviceset="POT" device="16MM_PCB_PADS" value="B100k"/>
 <part name="VOL" library="mb_pots" deviceset="POT" device="16MM_PCB_PADS" value="A100k"/>
 <part name="D3" library="mb_diodes" deviceset="1N914" device=".3"/>
 <part name="D4" library="mb_diodes" deviceset="1N914" device=".3"/>
